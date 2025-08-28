@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Naufal Najwan Abdurrafi](github-header-banner.png)
 
 
