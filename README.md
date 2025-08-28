@@ -20,11 +20,8 @@
 ---
 
 # 📊 GitHub Stats:
-<!-- Basic stats -->
-![](https://github-readme-stats.vercel.app/api?username=Wanafi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 <!-- Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=Wanafi&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Wanafi&theme=dark&hide_border=false)
 
 <!-- Top Languages (kalau private repo ga muncul, tetap ada badge manual di atas) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanafi&theme=dark&hide_border=false&layout=compact&count_private=true&cache_seconds=60)
