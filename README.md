@@ -1,14 +1,16 @@
+# Hi there, I'm Naufal 👋
+
 ![Naufal Najwan Abdurrafi](github-header-banner.png)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/785856102025396254) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naufalnjwn__) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.wanafi) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wanafijuya@gmail.com) 
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/785856102025396254)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naufalnjwn__)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.wanafi)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wanafijuya@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -19,12 +21,11 @@
 
 ---
 
-# 📊 GitHub Stats:
-<!-- Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=Wanafi&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanafi&theme=dark&hide_border=false&layout=compact&count_private=true&cache_seconds=60)
+## 📊 GitHub Stats
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Wanafi&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanafi&theme=dark&hide_border=false&layout=compact&count_private=true&cache_seconds=60)
 
 ---
 
-# 🏆 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=Wanafi&icon=0&color=0)](https://visitcount.itsvg.in)
-
+## 🏆 Visitor Count
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Wanafi&icon=0&color=0)](https://visitcount.itsvg.in)
