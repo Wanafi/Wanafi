@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Laravel+%26+PHP+Enthusiast;Building+Scalable+Web%20Apps" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Laravel+%26+PHP+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
   <p><b>Website Engineering And Technology Enthusiast</b> • Clean code, clean design, clean impact.</p>
 
   <img src="https://komarev.com/ghpvc/?username=Wanafi&label=Profile%20Views&color=00D1FF&style=for-the-badge" alt="views">
@@ -116,12 +115,10 @@
 
 <div align="center">
 
-### 📊 GitHub Streak Stats
+### 📊 Streak Stats
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Wanafi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" alt="streak">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wanafi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" alt="streak">
 </div>
 
 ---
@@ -130,7 +127,7 @@
 
 ### 💭 Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" alt="quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote">
 
 </div>
 
