@@ -2,75 +2,143 @@
   <img src="github-header-banner.png" alt="Naufal Najwan Abdurrafi" width="100%">
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=NAUFAL+NAJWAN+ABDURRAFI;Web+Developer+Extraordinaire;Laravel+Lover+%2F+PHP+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Naufal+Najwan+Abdurrafi;Crafting+Digital+Experiences+%E2%9C%A8;Fullstack+Web+Developer+%7C+Laravel+Enthusiast;Turning+Ideas+into+Scalable+Products" alt="Typing SVG" />
+  <p><b>Website Engineering And Technology Enthusiast</b> • Fokus bangun produk web yang <i>clean, cepat, scalable</i></p>
   
-  <p align="center">
-    <b>Building clean, high-performance web applications.</b>
-  </p>
-
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge" alt="Status">
-</div>
-
----
-
-<div align="center">
-  <h3>🚀 Leveling Up</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Wanafi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophy">
-</div>
-
----
-
-### 🛠️ Tech Universe
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend" />
-        <br><b>Backend</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" alt="Frontend" />
-        <br><b>Frontend</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=figma,ps,windows,git" alt="Tools" />
-        <br><b>Design & Tools</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 Vital Signs
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanafi&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wanafi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF" height="180" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanafi&theme=tokyonight&hide_border=true&layout=compact&title_color=00D1FF&text_color=FFFFFF" height="180" alt="Top Languages">
-</div>
-
----
-
-<div align="center">
-  <h3>⚡ Connect with the Void</h3>
+  <img src="https://komarev.com/ghpvc/?username=Wanafi&label=Profile%20views&color=00D1FF&style=for-the-badge" alt="views">
+  <img src="https://img.shields.io/github/followers/Wanafi?label=Followers&style=for-the-badge&color=00D1FF" alt="followers">
+  <img src="https://img.shields.io/badge/Focus-Laravel%20%7C%20PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="focus">
   <br>
-  <a href="https://discord.gg/785856102025396254"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a> 
-  <a href="https://instagram.com/naufalnjwn__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a> 
-  <a href="mailto:wanafijuya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-brightgreen?style=flat-square&logo=handshake&logoColor=white" alt="hireable">
+  <img src="https://visitcount.itsvg.in/api?id=Wanafi&icon=0&color=0" alt="visitcount">
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=80&section=header&text=&fontSize=0" width="100%" />
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wanafi&label=SIGHTINGS&color=00D1FF&style=flat-square" alt="Profile views">
+
+### 🚀 About Me
+
+</div>
+
+```php
+<?php
+  $naufal = [
+    "role" => "Web Developer",
+    "focus" => ["Laravel", "PHP", "JavaScript", "UI/UX"],
+    "learning" => "Laravel Ecosystem & Modern JS",
+    "building" => "Sigelat - Equipment Inspection System",
+    "funFact" => "Ngoding sambil desain di Figma ☕🎨",
+    "motto" => "Clean code, clean design, clean impact."
+  ];
+?>
+```
+
+<table align="center">
+<tr>
+<td align="center">🔭<br><b>Building</b><br>Sigelat System</td>
+<td align="center">🌱<br><b>Learning</b><br>Laravel Advanced</td>
+<td align="center">🎯<br><b>Goal 2026</b><br>Ship 5 Products</td>
+<td align="center">📫<br><b>Contact</b><br>wanafijuya@gmail.com</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Universe - Stack 3D
+
+</div>
+
+<div align="center">
+  <a href="#-tech-universe---stack-3d"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,figma,git,github,vscode,windows" alt="skills"/></a>
+  <br><br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
+</div>
+
+---
+
+<div align="center">
+
+### 📌 Featured Projects
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Wanafi/Sigelat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanafi&repo=Sigelat&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117" width="400" alt="Sigelat"></a>
+  <a href="https://github.com/Wanafi/Sigelat-new"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanafi&repo=Sigelat-new&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117" width="400" alt="Sigelat-new"></a>
+  <br>
+  <a href="https://github.com/Wanafi/Portofolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanafi&repo=Portofolio&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117" width="400" alt="Portofolio"></a>
+  <a href="https://github.com/Wanafi/Engineering"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanafi&repo=Engineering&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117" width="400" alt="Engineering"></a>
+</div>
+
+<div align="center">
+  <i>Sigelat: System manajemen inspeksi equipment, tracking kondisi & approval workflow yang fleksibel</i>
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Analytics - 3D Stats
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanafi&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wanafi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" alt="stats">
+  <img src="https://streak-stats.demolab.com?user=Wanafi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" height="170" alt="streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanafi&theme=tokyonight&hide_border=true&layout=compact&title_color=00D1FF&bg_color=0D1117&langs_count=6" height="150" alt="langs">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wanafi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophy">
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Wanafi" alt="contributor stats" width="100%" style="max-width:600px">
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote & Snake 3D
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" alt="quote">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Wanafi/Wanafi/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%">
+
+<sub>Snake butuh GitHub Action. Setup workflow `snk` biar animasi jalan.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Connect With Me
+
+<a href="mailto:wanafijuya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://instagram.com/naufalnjwn__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.gg/785856102025396254"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://tiktok.com/@.wanafi"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+
 </div>
