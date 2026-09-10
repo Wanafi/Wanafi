@@ -15,29 +15,27 @@
 <div align="center">
 
 ### 🚀 About Me
+<sub>Web Developer • Laravel Enthusiast • Clean code, clean design</sub>
 
 </div>
 
 ```php
-<?php
-  $naufal = [
-    "role" => "Web Developer",
-    "focus" => ["Laravel", "PHP", "JavaScript", "UI/UX"],
-    "learning" => "Laravel Ecosystem & Modern JS",
-    "building" => "Sigelat - Equipment Inspection System",
-    "funFact" => "Ngoding sambil desain di Figma ☕🎨"
-  ];
-?>
+$naufal = [
+  'role'     => 'Web Developer',
+  'stack'    => ['Laravel', 'PHP', 'JavaScript', 'MySQL'],
+  'learning' => 'Laravel Ecosystem & Modern JS',
+  'building' => 'Sigelat — Equipment Inspection System',
+  'motto'    => 'Ngoding sambil desain di Figma ☕🎨'
+];
 ```
 
-<table align="center">
-<tr>
-<td align="center">🔭<br><b>Building</b><br>Sigelat System</td>
-<td align="center">🌱<br><b>Learning</b><br>Laravel Advanced</td>
-<td align="center">🎯<br><b>Goal 2026</b><br>Ship 5 Products</td>
-<td align="center">📫<br><b>Contact</b><br>wanafijuya@gmail.com</td>
-</tr>
-</table>
+<div align="center">
+
+| 🔭 Building | 🌱 Learning | 🎯 Goal 2026 | 📫 Contact |
+| :---------: | :---------: | :----------: | :--------: |
+| **Sigelat System** | Laravel Advanced | Ship 5 Products | `wanafijuya@gmail.com` |
+
+</div>
 
 ---
 
