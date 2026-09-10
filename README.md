@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header&text=Naufal%20Najwan%20Abdurrafi&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Laravel+%26+PHP+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
-  <p><b>Website Engineering And Technology Enthusiast</b> • Clean code, clean design, clean impact.</p>
-
-  <img src="https://komarev.com/ghpvc/?username=Wanafi&label=Profile%20Views&color=00D1FF&style=for-the-badge" alt="views">
-  <img src="https://img.shields.io/github/followers/Wanafi?label=Followers&style=for-the-badge&color=00D1FF" alt="followers">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="hireable">
+  <img src="github-header-banner.png" alt="Naufal Najwan Abdurrafi" width="100%">
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer;Laravel+%26+PHP+Enthusiast;Clean+Code+%E2%80%A2+Clean+Design" alt="Typing SVG" />
+  <p><sub><b>Website Engineering and Technology Enthusiast</b> — Building scalable web apps with Laravel</sub></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Wanafi&label=Views&color=0e75b6&style=flat-square" alt="views">
+    <img src="https://img.shields.io/github/followers/Wanafi?label=Followers&style=flat-square&color=00D1FF" alt="followers">
+    <img src="https://img.shields.io/badge/Available%20for%20Hire-brightgreen?style=flat-square" alt="hireable">
+  </p>
 </div>
 
 ---
