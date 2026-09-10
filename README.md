@@ -1,19 +1,16 @@
 <div align="center">
-  <img src="github-header-banner.png" alt="Naufal Najwan Abdurrafi" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header&text=Naufal%20Najwan%20Abdurrafi&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Naufal+Najwan+Abdurrafi;Crafting+Digital+Experiences+%E2%9C%A8;Fullstack+Web+Developer+%7C+Laravel+Enthusiast;Turning+Ideas+into+Scalable+Products" alt="Typing SVG" />
-  <p><b>Website Engineering And Technology Enthusiast</b> • Fokus bangun produk web yang <i>clean, cepat, scalable</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Laravel+%26+PHP+Enthusiast;Building+Scalable+Web%20Apps" alt="Typing SVG" />
   
-  <img src="https://komarev.com/ghpvc/?username=Wanafi&label=Profile%20views&color=00D1FF&style=for-the-badge" alt="views">
-  <img src="https://img.shields.io/github/followers/Wanafi?label=Followers&style=for-the-badge&color=00D1FF" alt="followers">
-  <img src="https://img.shields.io/badge/Focus-Laravel%20%7C%20PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="focus">
-  <br>
-  <img src="https://img.shields.io/badge/Available%20for%20Freelance-brightgreen?style=flat-square&logo=handshake&logoColor=white" alt="hireable">
-</div>
+  <p><b>Website Engineering And Technology Enthusiast</b> • Clean code, clean design, clean impact.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=80&section=header&text=&fontSize=0" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Wanafi&label=Profile%20Views&color=00D1FF&style=for-the-badge" alt="views">
+  <img src="https://img.shields.io/github/followers/Wanafi?label=Followers&style=for-the-badge&color=00D1FF" alt="followers">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="hireable">
+</div>
 
 ---
 
@@ -30,8 +27,7 @@
     "focus" => ["Laravel", "PHP", "JavaScript", "UI/UX"],
     "learning" => "Laravel Ecosystem & Modern JS",
     "building" => "Sigelat - Equipment Inspection System",
-    "funFact" => "Ngoding sambil desain di Figma ☕🎨",
-    "motto" => "Clean code, clean design, clean impact."
+    "funFact" => "Ngoding sambil desain di Figma ☕🎨"
   ];
 ?>
 ```
@@ -49,19 +45,12 @@
 
 <div align="center">
 
-### 🛠️ Tech Universe - Stack 3D
+### 🛠️ Tech Universe
 
 </div>
 
 <div align="center">
-  <a href="#-tech-universe---stack-3d"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,figma,git,github,vscode,windows" alt="skills"/></a>
-  <br><br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind,figma,git,github,vscode,windows" alt="skills"/>
 </div>
 
 ---
@@ -81,7 +70,6 @@
 <br><br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/github/stars/Wanafi/Sigelat?style=flat-square&color=00D1FF" alt="stars">
 <br>
 <a href="https://github.com/Wanafi/Sigelat"><img src="https://img.shields.io/badge/Explore%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=00D1FF" alt="repo"></a>
 
@@ -93,7 +81,6 @@
 <br><br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/github/stars/Wanafi/Sigelat-new?style=flat-square&color=00D1FF" alt="stars">
 <br>
 <a href="https://github.com/Wanafi/Sigelat-new"><img src="https://img.shields.io/badge/Explore%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=00D1FF" alt="repo"></a>
 
@@ -107,7 +94,6 @@
 <br><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/github/stars/Wanafi/Portofolio?style=flat-square&color=00D1FF" alt="stars">
 <br>
 <a href="https://github.com/Wanafi/Portofolio"><img src="https://img.shields.io/badge/Explore%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=00D1FF" alt="repo"></a>
 
@@ -119,7 +105,6 @@
 <br><br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/github/stars/Wanafi/Engineering?style=flat-square&color=00D1FF" alt="stars">
 <br>
 <a href="https://github.com/Wanafi/Engineering"><img src="https://img.shields.io/badge/Explore%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=00D1FF" alt="repo"></a>
 
@@ -131,41 +116,21 @@
 
 <div align="center">
 
-### 📊 GitHub Analytics - 3D Stats
+### 📊 GitHub Streak Stats
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanafi&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wanafi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" alt="stats">
-  <img src="https://streak-stats.demolab.com?user=Wanafi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" height="170" alt="streak">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanafi&theme=tokyonight&hide_border=true&layout=compact&title_color=00D1FF&bg_color=0D1117&langs_count=6" height="150" alt="langs">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wanafi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophy">
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Wanafi" alt="contributor stats" width="100%" style="max-width:600px">
+  <img src="https://streak-stats.demolab.com?user=Wanafi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" alt="streak">
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 Dev Quote & Snake 3D
+### 💭 Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" alt="quote">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Wanafi/Wanafi/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%">
-
-<sub>Snake butuh GitHub Action. Setup workflow `snk` biar animasi jalan.</sub>
 
 </div>
 
