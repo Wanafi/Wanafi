@@ -62,14 +62,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wanafi&show_icons=true&theme=dark&hide_border=false&count_private=true&cache_seconds=60" height="165" alt="GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Wanafi&theme=dark&hide_border=false" height="165" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wanafi&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanafi&theme=dark&hide_border=false&layout=compact&count_private=true&cache_seconds=60" height="130" alt="Top Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wanafi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanafi&theme=dark&hide_border=false&layout=compact&count_private=true" alt="Top Languages">
 </div>
 
 ---
