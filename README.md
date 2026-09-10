@@ -73,17 +73,60 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/Wanafi/Sigelat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanafi&repo=Sigelat&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117" width="400" alt="Sigelat"></a>
-  <a href="https://github.com/Wanafi/Sigelat-new"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanafi&repo=Sigelat-new&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117" width="400" alt="Sigelat-new"></a>
-  <br>
-  <a href="https://github.com/Wanafi/Portofolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanafi&repo=Portofolio&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117" width="400" alt="Portofolio"></a>
-  <a href="https://github.com/Wanafi/Engineering"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanafi&repo=Engineering&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=0D1117" width="400" alt="Engineering"></a>
-</div>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <i>Sigelat: System manajemen inspeksi equipment, tracking kondisi & approval workflow yang fleksibel</i>
-</div>
+#### 🔧 <a href="https://github.com/Wanafi/Sigelat">Sigelat</a>
+<sub>System manajemen inspeksi equipment, tracking kondisi & approval workflow fleksibel</sub>
+<br><br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/github/stars/Wanafi/Sigelat?style=flat-square&color=00D1FF" alt="stars">
+<br>
+<a href="https://github.com/Wanafi/Sigelat"><img src="https://img.shields.io/badge/Explore%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=00D1FF" alt="repo"></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 <a href="https://github.com/Wanafi/Sigelat-new">Sigelat-new</a>
+<sub>Versi terbaru Sigelat — refactor, performa lebih cepat & workflow lebih clean</sub>
+<br><br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/github/stars/Wanafi/Sigelat-new?style=flat-square&color=00D1FF" alt="stars">
+<br>
+<a href="https://github.com/Wanafi/Sigelat-new"><img src="https://img.shields.io/badge/Explore%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=00D1FF" alt="repo"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 <a href="https://github.com/Wanafi/Portofolio">Portofolio</a>
+<sub>Personal portfolio website — showcase project, skill & contact</sub>
+<br><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/github/stars/Wanafi/Portofolio?style=flat-square&color=00D1FF" alt="stars">
+<br>
+<a href="https://github.com/Wanafi/Portofolio"><img src="https://img.shields.io/badge/Explore%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=00D1FF" alt="repo"></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ <a href="https://github.com/Wanafi/Engineering">Engineering</a>
+<sub>Website Engineering & Technology Enthusiasts — platform informasi & kolaborasi</sub>
+<br><br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/github/stars/Wanafi/Engineering?style=flat-square&color=00D1FF" alt="stars">
+<br>
+<a href="https://github.com/Wanafi/Engineering"><img src="https://img.shields.io/badge/Explore%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=00D1FF" alt="repo"></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
