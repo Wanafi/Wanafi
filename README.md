@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Focus-Laravel%20%7C%20PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="focus">
   <br>
   <img src="https://img.shields.io/badge/Available%20for%20Freelance-brightgreen?style=flat-square&logo=handshake&logoColor=white" alt="hireable">
-  <img src="https://visitcount.itsvg.in/api?id=Wanafi&icon=0&color=0" alt="visitcount">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=80&section=header&text=&fontSize=0" width="100%" />
